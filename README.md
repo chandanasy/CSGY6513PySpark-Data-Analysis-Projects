@@ -15,7 +15,7 @@ Examining global demographic changes year over year.
 Literature Word Count:
 Determining prevalent themes in classical literature through word frequency analysis.
 
-# Prerequisites
+# Requirements
 Access to NYU's HPC resources.
 An NYU NetID and an active Google Cloud project.
 Familiarity with Google Cloud Dataproc and Hadoop/Spark ecosystems.
