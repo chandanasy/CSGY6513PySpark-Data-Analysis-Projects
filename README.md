@@ -7,12 +7,19 @@ This repository hosts a collection of data analysis projects executed within NYU
 # Projects
 
 Bakery Sales Analysis:
+
 Insights into bakery item popularity during peak hours.
+
 Restaurant and Foreclosure Analysis:
+
 Correlating restaurant inspection outcomes with nearby foreclosures.
+
 Population Growth Analysis:
+
 Examining global demographic changes year over year.
+
 Literature Word Count:
+
 Determining prevalent themes in classical literature through word frequency analysis.
 
 # Requirements
